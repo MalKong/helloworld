@@ -10,3 +10,5 @@ reset test
 
 reset test2
 ok
+
+testech(co)
