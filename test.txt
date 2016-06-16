@@ -1,0 +1,2 @@
+this is test document
+I am going to test symbolic-link on git
